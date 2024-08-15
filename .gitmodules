@@ -4,3 +4,6 @@
 [submodule "tut_1_responsivelayout"]
 	path = tut_1_responsivelayout
 	url = https://github.com/amjadniazi48/tut_1_responsivelayout.git
+[submodule "tutorial_1_responsivelayout"]
+	path = tutorial_1_responsivelayout
+	url = https://github.com/amjadniazi48/tut_1_responsivelayout.git
